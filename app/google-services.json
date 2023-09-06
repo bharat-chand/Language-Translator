@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949625482890",
+    "project_id": "language-translator-cabd8",
+    "storage_bucket": "language-translator-cabd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949625482890:android:f8b8c83f16f25653428773",
+        "android_client_info": {
+          "package_name": "com.bharat.languagetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949625482890-1pq5g44cg2gva0i4faia1flv9cm59oop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharat.languagetranslator",
+            "certificate_hash": "84c5878cce872613628fa91f03143f1d60e5f4ac"
+          }
+        },
+        {
+          "client_id": "949625482890-drbgpm87jk37likpvs1vnv68dl33p8pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxyBykoV2K1mDdm4MHKUM7kulCP47NjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949625482890-drbgpm87jk37likpvs1vnv68dl33p8pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
